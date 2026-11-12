@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "mymod",
+	"version": "${version}",
+	"name": "Overkill",
+	"description": "Песочница разрушения для Minecraft (Fabric): пульт вызывает кинематографичные удары — ядерные ракеты, метеориты, спутники, бурильные снаряды; управление гравитацией, деформация мира, взрывы, частицы и свои FX. Всё на CC0.",
+	"authors": [
+		"MagicFakeDS"
+	],
+	"contact": {
+		"homepage": "https://github.com/MagicFakeDS/overkill",
+		"sources": "https://github.com/MagicFakeDS/overkill",
+		"issues": "https://github.com/MagicFakeDS/overkill/issues"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mymod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.mymod.MyMod"
+		],
+		"client": [
+			"com.example.mymod.client.MyModClient"
+		]
+	},
+	"mixins": [
+		"mymod.mixins.json",
+		{
+			"config": "mymod.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

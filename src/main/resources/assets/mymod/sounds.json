@@ -1,0 +1,740 @@
+{
+  "explosion.small": {
+    "subtitle": "subtitles.mymod.explosion",
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 1.0,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 1.0,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 1.0,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 1.0,
+        "volume": 1.0
+      }
+    ]
+  },
+  "explosion.medium": {
+    "subtitle": "subtitles.mymod.explosion",
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.8,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.8,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.8,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.8,
+        "volume": 1.0
+      }
+    ]
+  },
+  "explosion.big": {
+    "subtitle": "subtitles.mymod.explosion_big",
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.65,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.65,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.65,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.65,
+        "volume": 1.0
+      }
+    ]
+  },
+  "explosion.rumble": {
+    "subtitle": "subtitles.mymod.rumble",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/weather/thunder1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder2",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder3",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "explosion.far": {
+    "subtitle": "subtitles.mymod.explosion_far",
+    "sounds": [
+      {
+        "name": "minecraft:ambient/weather/thunder1",
+        "pitch": 0.65,
+        "volume": 0.8,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder2",
+        "pitch": 0.65,
+        "volume": 0.8,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder3",
+        "pitch": 0.65,
+        "volume": 0.8,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "nuke": {
+    "subtitle": "subtitles.mymod.nuke",
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "tsar": {
+    "subtitle": "subtitles.mymod.tsar",
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "sonic_boom": {
+    "subtitle": "subtitles.mymod.sonic_boom",
+    "sounds": [
+      {
+        "name": "minecraft:fireworks/largeblast_far1",
+        "pitch": 0.7,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "rocket.launch": {
+    "subtitle": "subtitles.mymod.rocket_launch",
+    "sounds": [
+      {
+        "name": "minecraft:fireworks/launch1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "rocket.flyby": {
+    "subtitle": "subtitles.mymod.flyby",
+    "sounds": [
+      {
+        "name": "minecraft:mob/breeze/wind_burst1",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:mob/breeze/wind_burst2",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:mob/breeze/wind_burst3",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "freeze": {
+    "subtitle": "subtitles.mymod.freeze",
+    "sounds": [
+      {
+        "name": "minecraft:random/glass1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:random/glass2",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:random/glass3",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "fire.roar": {
+    "subtitle": "subtitles.mymod.fire_roar",
+    "sounds": [
+      {
+        "name": "minecraft:fire/fire",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "quake": {
+    "subtitle": "subtitles.mymod.quake",
+    "sounds": [
+      {
+        "name": "minecraft:mob/warden/dig",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "plasma": {
+    "subtitle": "subtitles.mymod.plasma",
+    "sounds": [
+      {
+        "name": "minecraft:block/beacon/ambient",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "antimatter": {
+    "subtitle": "subtitles.mymod.antimatter",
+    "sounds": [
+      {
+        "name": "minecraft:block/beacon/activate",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "asteroid.entry": {
+    "subtitle": "subtitles.mymod.asteroid",
+    "sounds": [
+      {
+        "name": "minecraft:mob/ghast/fireball4",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "chunk.cut": {
+    "subtitle": "subtitles.mymod.chunk_cut",
+    "sounds": [
+      {
+        "name": "minecraft:item/trident/thunder1",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:item/trident/thunder2",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "chunk.collapse": {
+    "subtitle": "subtitles.mymod.chunk_collapse",
+    "sounds": [
+      {
+        "name": "minecraft:block/deepslate/break1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:block/deepslate/break2",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:block/deepslate/break3",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:block/deepslate/break4",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "satellite.charge": {
+    "subtitle": "subtitles.mymod.sat_charge",
+    "sounds": [
+      {
+        "name": "minecraft:block/respawn_anchor/charge1",
+        "pitch": 0.8,
+        "volume": 1.0,
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:block/respawn_anchor/charge2",
+        "pitch": 0.8,
+        "volume": 1.0,
+        "attenuation_distance": 48
+      },
+      {
+        "name": "minecraft:block/respawn_anchor/charge3",
+        "pitch": 0.8,
+        "volume": 1.0,
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "satellite.fire": {
+    "subtitle": "subtitles.mymod.sat_fire",
+    "sounds": [
+      {
+        "name": "minecraft:item/trident/thunder1",
+        "pitch": 0.9,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:item/trident/thunder2",
+        "pitch": 0.9,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "incoming": {
+    "subtitle": "subtitles.mymod.incoming",
+    "sounds": [
+      {
+        "name": "minecraft:mob/phantom/swoop1",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:mob/phantom/swoop2",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:mob/phantom/swoop3",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      },
+      {
+        "name": "minecraft:mob/phantom/swoop4",
+        "pitch": 0.55,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "bomb.whistle": {
+    "subtitle": "subtitles.mymod.whistle",
+    "sounds": [
+      {
+        "name": "mymod:explosion/whistle1"
+      }
+    ]
+  },
+  "geiger": {
+    "subtitle": "subtitles.mymod.geiger",
+    "sounds": [
+      {
+        "name": "mymod:explosion/geiger1",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "layer.thunder": {
+    "sounds": [
+      {
+        "name": "minecraft:ambient/weather/thunder1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder2",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:ambient/weather/thunder3",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "layer.sonic": {
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 128
+      }
+    ]
+  },
+  "layer.crack": {
+    "sounds": [
+      {
+        "name": "minecraft:fireworks/largeblast_far1",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "layer.rubble": {
+    "sounds": [
+      {
+        "name": "minecraft:dig/gravel1",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/gravel2",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/gravel3",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:dig/gravel4",
+        "pitch": 0.55,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/deepslate/break1",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/deepslate/break2",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/deepslate/break3",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/deepslate/break4",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "layer.fire": {
+    "sounds": [
+      {
+        "name": "minecraft:fire/fire",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "layer.ghast": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/ghast/fireball4",
+        "pitch": 0.5,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "layer.whoosh": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/breeze/wind_burst1",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/breeze/wind_burst2",
+        "pitch": 0.5,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:mob/breeze/wind_burst3",
+        "pitch": 0.5,
+        "volume": 1.0
+      }
+    ]
+  },
+  "layer.snow": {
+    "sounds": [
+      {
+        "name": "minecraft:block/powder_snow/break1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/powder_snow/break2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/powder_snow/break3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/powder_snow/break4",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/powder_snow/break5",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/powder_snow/break6",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "layer.amethyst": {
+    "sounds": [
+      {
+        "name": "minecraft:block/amethyst/break1",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/amethyst/break2",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/amethyst/break3",
+        "pitch": 0.6,
+        "volume": 1.0
+      },
+      {
+        "name": "minecraft:block/amethyst/break4",
+        "pitch": 0.6,
+        "volume": 1.0
+      }
+    ]
+  },
+  "layer.beacon": {
+    "sounds": [
+      {
+        "name": "minecraft:block/beacon/activate",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "layer.portal": {
+    "sounds": [
+      {
+        "name": "minecraft:portal/trigger",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "layer.trident": {
+    "sounds": [
+      {
+        "name": "minecraft:item/trident/thunder1",
+        "pitch": 0.8,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:item/trident/thunder2",
+        "pitch": 0.8,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "layer.boom": {
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:random/explode2",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:random/explode3",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      },
+      {
+        "name": "minecraft:random/explode4",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "layer.riptide": {
+    "sounds": [
+      {
+        "name": "minecraft:item/trident/riptide1",
+        "pitch": 0.6,
+        "volume": 1.0,
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "armor.vest_hit": {
+    "subtitle": "subtitles.mymod.armor.vest_hit",
+    "sounds": [
+      {
+        "name": "mymod:gun/vest_hit1"
+      },
+      {
+        "name": "mymod:gun/vest_hit2"
+      },
+      {
+        "name": "mymod:gun/vest_hit3"
+      }
+    ]
+  },
+  "armor.vest_equip": {
+    "subtitle": "subtitles.mymod.armor.vest_equip",
+    "sounds": [
+      {
+        "name": "mymod:gun/vest_equip1"
+      }
+    ]
+  },
+  "armor.helmet_equip": {
+    "subtitle": "subtitles.mymod.armor.helmet_equip",
+    "sounds": [
+      {
+        "name": "mymod:gun/helmet_equip1"
+      }
+    ]
+  }
+}
